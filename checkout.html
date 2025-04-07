@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Checkout - ShopEase</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1 class="shop-title">Checkout 🛒</h1>
+  </header>
+
+  <main>
+    <div id="cart-items">
+      <!-- Cart items will be displayed here -->
+    </div>
+
+    <h3>Total: $<span id="total-price">0.00</span></h3>
+
+    <div class="payment-info">
+      <h3>Payment Information</h3>
+      <label for="card-number">Card Number:</label>
+      <input type="text" id="card-number" placeholder="Enter card number" />
+      <label for="card-expiry">Expiry Date:</label>
+      <input type="text" id="card-expiry" placeholder="MM/YY" />
+      <label for="card-cvc">CVC:</label>
+      <input type="text" id="card-cvc" placeholder="CVC" />
+      <button onclick="processPayment()">Pay Now</button>
+    </div>
+  </main>
+
+  <script src="checkout.js"></script>
+</body>
+</html>

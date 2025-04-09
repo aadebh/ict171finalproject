@@ -32,3 +32,9 @@ The store website is now live and can be accessed via the EC2 public IP address:
 🌐 http://44.204.48.146
 
 
+
+
+<img width="1468" alt="image" src="https://github.com/user-attachments/assets/f38e51e0-ca02-4f25-aa36-c29f7c6ac535" />
+
+
+

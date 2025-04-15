@@ -22,7 +22,7 @@ sudo systemctl enable httpd
 
 # Step 4: Install Git and clone my website repository
 sudo yum install git -y
-git clone https://github.com/yourusername/yourrepo.git
+git clone (https://github.com/aadebh/ict171finalproject)
 
 # Step 5: Move website files to Apache's root directory
 sudo cp -r yourrepo/* /var/www/html/

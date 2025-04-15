@@ -37,7 +37,7 @@ After running the script:
 The Apache HTTP server was running.
 The GitHub repo was cloned, and files were served from /var/www/html/.
 The website was live on my EC2 public IP:
-http://44.204.48.146
+http://51.21.227.95
 Domain Integration:
 To provide a professional domain for the website, I purchased a domain from GoDaddy and pointed it to my EC2 instance's public IP using A record DNS configuration.
 
@@ -54,3 +54,5 @@ GitHub – to store and manage website source code.
 Apache – to serve the website over HTTP.
 GoDaddy – for domain name registration and DNS management.
 Bash Script – to automate the entire process.
+
+

@@ -28,7 +28,7 @@ Created an EC2 instance using Amazon Linux 2.
 sudo yum install git httpd -y
 
 #Cloned the website code from my GitHub repository:
-git clone https://github.com/username/repository-name.git
+git clone (https://github.com/aadebh/ict171finalproject)
 
 #Moved website files to Apache's root directory:
 sudo cp -r repository-name/* /var/www/html/

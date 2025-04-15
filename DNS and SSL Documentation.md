@@ -1,5 +1,5 @@
 🌐 DNS Configuration (Completed)
-The website became accessible through a custom domain name after I successfully set up DNS configuration with a GoDaddy purchased domain. I established a connection between the domain and my EC2 instance public IP address (44.204.48.146) through an A record.
+The website became accessible through a custom domain name after I successfully set up DNS configuration with a GoDaddy purchased domain. I established a connection between the domain and my EC2 instance public IP address (51.21.227.95) through an A record.
 
 ✅ A Record Setup:
 

@@ -1,9 +1,19 @@
-📄 Website Documentation
-The website exists as a basic e-commerce platform which runs on an Amazon EC2 with Amazon Linux 2 operating system. I developed this project to understand static website hosting in the cloud and acquire practical skills in web hosting together with Apache server setup and GitHub connection.
-The website operates through a cloned application sourced from GitHub which uses the Apache HTTP server for delivery.
+📝 Website Documentation: Men's Watch Online Store
+
+🌐 Project Overview
+
+The online men's watch store operated by static e-commerce runs on Amazon EC2 with an Amazon Linux 2 platform. The main objective of the work centered around gaining practical experience through these measures:
+
+Static website deployment on the cloud
+The process of establishing Apache HTTP Server along with its necessary configurations
+Using GitHub for version control
+Understanding domain management with GoDaddy
+The website achieves a lightweight delivery because it uses HTML CSS and JavaScript to build an interface that combines modern styles with easy usability.
 
 🛍️ About the Project
-The website I created serves as an online store to display products while offering a product display system with navigation capabilities and responsive format options. The website operates as a static platform built from HTML/CSS/JS for delivering a clean professional interface to users. The project shows that any individual or small business can build their online product store through free open-source software.
+
+The Men’s Watch Online Store presents premium yet stylish watches for men within its catalogue. Through the navigation menu users can effortlessly browse watches which are properly organized into categories. Using open-source tools alongside cloud services small business operators and individual entrepreneurs can launch an online product store that operates without dependency on complicated backend infrastructure.
+
 
 🧰 Tools & Technologies Used
 Cloud hosting takes place through Amazon EC2 (Amazon Linux 2).
@@ -33,8 +43,12 @@ The store website is now live and can be accessed via the EC2 public IP address:
 
 
 
+<img width="1467" alt="image" src="https://github.com/user-attachments/assets/1eb440a5-0c38-493b-ab58-317ac273f366" />
+<img width="1458" alt="image" src="https://github.com/user-attachments/assets/720a4bf8-301d-4cd9-b454-6bb0b9b4bb61" />
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/0a7eb5ab-9fb4-4c64-a086-da57f8451f49" />
 
-<img width="1468" alt="image" src="https://github.com/user-attachments/assets/f38e51e0-ca02-4f25-aa36-c29f7c6ac535" />
+
+
 
 
 

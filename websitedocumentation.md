@@ -39,7 +39,8 @@ sudo systemctl enable httpd
 
 🔗 Current Website Access
 The store website is now live and can be accessed via the EC2 public IP address:
-🌐 http://44.204.48.146
+🌐 http://51.21.227.95
+domain name-https://waqt.publicvm.com/
 
 
 
